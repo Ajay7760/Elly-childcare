@@ -1,0 +1,425 @@
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: #164596;
+    display: flex; 
+    justify-items: center;
+    align-items: center;
+    
+    
+}
+.social-media{
+    width: 164px;
+height:  32px;
+margin: 83px;
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+  
+
+}
+.box{
+
+   width: 32px;
+   height: 32px;
+   background-color: white;
+   border-radius: 50%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.contact{
+    color: white;
+    font: bold;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    
+  
+ 
+}
+.boder{
+    height: 19px;
+   border: solid white 0.5px;
+}
+.contacts{
+    position: relative;
+    left: 50%;
+    display: flex;
+     
+    align-items: center;
+
+} 
+.contacts p{
+    font: bold;
+    color: white;
+}
+.nav-option p{
+    display: inline;
+    margin: 15px;
+    font:bold;
+    
+    position: relative;
+    justify-content: space-between;
+    font-size: large;
+}
+.nav-option{
+    position: relative;
+    left: 170px;
+    font-size: large;
+}
+.home {
+    height: 150px;
+
+    display: flex;
+    color:black;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav-img img{
+    position: relative;
+  right: 150px;
+}.home-pink{
+    color:  #CF037F;
+    
+}
+.main-content{
+    background-image: url(Frame\ 7.png);
+    height: 700px;
+    width: 100%;
+ 
+   
+}
+.edit {
+    position: relative;
+    left: 150px;
+    top: 35px;
+}
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 1000;
+    position: relative;
+   
+    left: 150px;
+    top: 80px;
+
+ 
+}
+.heading h1 i{
+    color:  yellow;
+}
+.main-content  button{
+    background-color: #E5097F;
+    border-radius: 10px;
+    height: 50px;
+    width: 10%;
+    color: white;
+    position: relative;
+    
+    top: 160px;
+    left: 10%;
+}
+.children{
+   display: flex;
+    position: relative;
+    margin: 100px;
+}
+.boy-img{
+    position: relative;
+    right: 200px;
+    bottom: 70px;
+}
+.children3{
+    position:absolute;
+    top: 386px;
+    left: 388px;
+}
+.About{
+    
+ 
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline;
+   flex-direction: column;
+}
+.button2{
+    margin: 30px;
+    background-color: #E5097F;
+    color: white;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+/* comminity */
+
+.comminity{
+    background-image: url(Rectangle\ 160.png);
+    height: 1009px;
+    width: 100%;
+    
+}
+.card-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: space-around;
+    padding-bottom: 10%;
+    position: relative;
+    top: 20px;
+}
+.comminity h1 {
+    text-align: center;
+   padding: 40px;
+}
+
+.card-1{
+    text-align: center;
+}
+.card-a{
+   
+    height: 300px;
+    width: 20%;
+    margin-top: 10px;
+    padding: 20px 0px 15px;
+    background-color:  #1B51A399;
+   margin-top:10px ;
+    border-radius: 10px;
+}
+
+.card-e{
+    height: 300px;
+    width: 20%;
+    padding: 20px 0px 15px;
+    background-color:  #B28DBC;
+    ;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.card-b{
+    height: 300px;
+    width: 20%;
+    padding: 20px 0px 15px;
+    background-color: #7F3F988C;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.card-c{
+    height: 300px;
+    width: 20%;
+    padding: 20px 0px 15px;
+    background-color: 
+    #EC7196;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.card-d{
+    height: 300px;
+    width: 20%;
+    padding: 20px 10px 14px 10px;
+    background-color: #85AEAF;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+/* core */
+
+.core h1{
+   text-align: center;
+
+}
+.justify{
+   text-align: justify;
+}
+.circle{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #E5097F;
+    padding: 10px;
+    border-style: dashed;
+    border: solid 2px #144e7a;
+  margin: 20px;
+  align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.program h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.program { 
+   text-align: center;
+   padding: 30px;
+}
+.circle {
+    color: white;
+}
+
+.client {
+    text-align: center;
+    
+}
+.smallcard{
+    width: 250px;
+    height: 150px;
+    border: 0.5px solid blue;
+    margin-top: 2%;
+    border-radius: 10px;
+}
+.sub{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+  
+}
+.sub img{
+    margin-top: 10px;
+   width: 120px;
+   height: 100px;
+
+}
+#more{
+    background-color: #E5097F;
+    border-radius: 10px;
+    height: 50px;
+    width: 10%;
+    color: white;
+    position: relative;
+    
+    top: 10px;
+    left: 46%;   
+    
+} 
+.childcare h1{
+  text-align: center;
+}
+.item{
+    padding: 10px;
+    margin-left: 20px;
+}
+.milestone{
+    background-color: #37475a;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+}
+.testimonials{
+    text-align: center;
+    margin-top: 100px;
+}
+.get{
+    padding: 30px;
+   margin: 20px;
+    width: 40%;
+    height: 30%;
+}
+.inline p{
+   display: inline;
+  top: 5px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.class1{
+    display: flex;
+    padding-left: 50px;
+}
+.inline{
+    padding: 20px;
+    margin: 20px;
+    width: 45%;
+}
+.form{
+    padding: 30px;
+   margin: 20px;
+    width: 40%;
+    
+    background-color: #37475a;
+}
+.input button{
+     background-color: #B28DBC;
+}
+.card{
+    height: 300px;
+    width: 20%;
+    padding: 20px 0px 15px;
+    background-color: 
+    #EC7196;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+.card img{
+     width:100%;
+     height: 50%;
+     
+}
+.blogs{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 20px;
+}
+.blog-main{
+    text-align: center;
+}
+
+#footer{
+    width: 100%;
+    height:300px;
+    background-color: #4c6c93;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.footbox{
+    width: 25%;
+    height: 25%;
+}
+.footbox-2{
+    width: 25%;
+    height: 25%;
+    margin: 20px;
+    padding: 15px;
+    left: 20px;   
+}
+.form {
+    background-color: #2187b21b;
+}
+.form button{
+    background-color: #CF037F;
+    border-radius: 10px;
+    width: 150px;
+    height: 45px;
+}
+
+.card-b:hover{
+    height: 310px;
+    width:22%;
+}
+.card-a:hover{
+    height: 310px;
+    width:22%;
+}
+.card-c:hover{
+    height: 310px;
+    width:22%;
+}
+.card-d:hover{
+    height: 310px;
+    width:22%;
+}
+.card-e:hover{
+    height: 310px;
+    width:22%;
+}
